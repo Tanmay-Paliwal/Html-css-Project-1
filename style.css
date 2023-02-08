@@ -36,13 +36,6 @@
     width: 10%; */
     transform: scale(1.2);
 }
-/* h1:after {
-    border-bottom: 1px solid #f00;
-    content: '';
-    display: block;
-    margin-left: 25%;
-    width: 50%;
-  } */
 .search-icon{
     display: flex;
     top: 7.5%;
@@ -53,7 +46,7 @@
     font-family: "Poppins";
     display: flex;
     top: 6.5%;
-    right: 8%;
+    right: 7%;
     font-size: 25px;
     padding: 5px 70px;
     border-radius: 20px;
@@ -76,8 +69,8 @@
 .square{
     display: flex;
     position: absolute;
-    top: 57%;
-    right: 62%;
+    top: 62%;
+    right: 58%;
     justify-content: center;
     z-index: -1;
 }
@@ -88,7 +81,7 @@
     position: absolute;
 }
 .globe{
-    top: 20%;
+    top: 18%;
     right: 37%;
     position: absolute;
 }
@@ -99,7 +92,7 @@
     font-size: 80px;
     position: absolute;
     top: 35%;
-    right: 8%;
+    right: 5%;
 }
 .hero-description{
     font-family: "Poppins";
@@ -127,7 +120,7 @@
     font-family: "Orbitron";
     display: flex;
     top: 75%;
-    right: 22%;
+    right: 20%;
     padding: 8px 25px;
     border-radius: 10px;
     font-size: 25px;
